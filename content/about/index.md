@@ -11,7 +11,7 @@ skills:
 
 Hello! I'm Vaibhav Dekatey, from Nagpur also known as the Orange City of India.
 
-I am energetic, exceptionally creative and dependable front end developer. Experience in blending the art of design with skill of programming with strong organizational skills, and meticulous attention to detail.
+I am energetic, exceptionally creative and dependable front end/software developer. Experience in blending the art of design with skill of programming with strong organizational skills, and meticulous attention to detail.
 
 I am pursuing my Bachelors from [DYPIU, Pune](https://www.dypiu.ac.in/) in Computer Science and Engineering.
 
