@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Vaibhav Dekatey'
-subtitle: 'Front End Developer and Blockchain Enthusiast!'
+subtitle: 'Front End/Software Developer and Blockchain Enthusiast!'
 buttonText: 'Get In Touch'
 ---
 
